@@ -1,0 +1,39 @@
+no,nama,harga,jenis
+1,Motherboard ASUS H81M-K,55,Motherboard
+2,Motherboard ASRock H81 Pro BTC,65,Motherboard
+3,Motherboard ASUS Maximus VII Hero,473,Motherboard
+4,Motherboard MSI H110M Gaming,103,Motherboard
+5,CPU Intel Core I7,545,CPU
+6,CPU Intel Pentium G2030,48,CPU
+7,CPU Intel Xeon X55677,43,CPU
+8,CPU AMD FX 9830,250,CPU
+9,CPU AMD Ryzen 5,221,CPU
+10,Memory Adata 8GB,85,Memory
+11,Memory V-Gen 8GB,45,Memory
+12,Memory Samsung 16GB,130,Memory
+13,Memory GSkill 12GB,70,Memory
+14,Memory Corsair 32GB,236,Memory
+15,CPU_Cooler Alseye,9,CPU Cooler
+16,CPU_Cooler Deepcool GAMMAXX,29,CPU Cooler
+17,CPU_Cooler Ice Edge Mini,12,CPU Cooler
+18,CPU_Cooler Master Hyper,57,CPU Cooler
+19,Case Paradox Dragon,42,Case
+20,Case ARMAGGEDDON,67,Case
+21,Case INFINITY,35,Case
+22,Case Black Micro,27,Case
+23,Case Fantech AERO,55,Case
+24,GPU ASUS GeForce,34,GPU
+25,GPU Zotac GTX,75,GPU
+26,GPU GALAX GeForce,109,GPU
+27,GPU MSI NVIDIA GeForce,139,GPU
+28,GPU Biostar VGA,122,GPU
+29,Storage KINGSTON SSD 240GB,58,Storage
+30,Storage SEAGATE SSD 480GB,376,Storage
+31,Storage WD Blue HDD 1TB,60,Storage
+32,Storage V-Gen SSD 180GB,26,Storage
+33,Storage Adata SSD 512GB,134,Storage
+34,PSU 450W,54,PSU
+35,PSU 500W,61,PSU
+36,PSU 850W,205,PSU
+37,PSU 1KW,299,PSU
+38,PSU 750W,170,PSU

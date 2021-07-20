@@ -1,0 +1,37 @@
+1 Motherboard ASUS_H81M-K 0 55
+2 Motherboard ASRock_H81_Pro_BTC 0 65
+3 Motherboard ASUS_Maximus_VII_Hero 0 473
+4 Motherboard MSI_H110M_Gaming 0 103
+5 CPU Intel_Core_I7 0 545
+6 CPU Intel_Pentium_G2030 0 48
+7 CPU Intel_Xeon_X55677 0 43
+8 CPU AMD_FX_9830 0 250
+9 CPU AMD_Ryzen_5 0 221
+10 Memory Adata_8GB 0 85
+11 Memory V-Gen_8GB 0 45
+12 Memory Samsung_16GB 0 130
+13 Memory GSkill_12GB 0 70
+14 Memory Corsair_32GB 0 236
+15 CPU Cooler Alseye 0 9
+16 CPU Cooler Deepcool_GAMMAXX 0 29
+17 CPU Cooler Ice_Edge_Mini 0 12
+18 CPU Cooler Cooler_Master_Hyper 0 57
+19 Case Paradox_Dragon 0 42
+20 Case ARMAGGEDDON 0 67
+21 Case INFINITY 0 35
+22 Case Black_Micro 0 27
+23 Case Fantech_AERO 0 55
+24 GPU ASUS_GeForce 0 34
+25 GPU Zotac_GTX 0 75
+26 GPU GALAX_GeForce 0 1090
+27 GPU MSI_NVIDIA_GeForce 1399
+28 GPU Biostar_VGA 0 122
+29 Storage KINGSTON_SSD_240GB 0 58
+30 Storage SEAGATE_SSD_480GB 0 376
+31 Storage WD_Blue_HDD_1TB 0 60
+32 Storage V-Gen_SSD_180GB 26
+33 Storage Adata_SSD_512GB 134
+34 PSU 450W 0 54
+35 PSU 500W 0 61
+36 PSU 850W 0 205
+37 PSU 1KW 0 299
